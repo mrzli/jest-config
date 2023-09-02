@@ -1,6 +1,6 @@
 {
   "name": "@gmjs/jest-config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Jest configuration.",
   "author": {
     "name": "Goran Mržljak",
@@ -40,7 +40,7 @@
     "@gmjs/eslint-config": "^0.0.18",
     "@gmjs/npm-publish-cli": "^0.0.4",
     "@gmjs/prettier-config": "^1.0.3",
-    "@gmjs/tsconfig": "^1.0.0",
+    "@gmjs/tsconfig": "^1.0.6",
     "@jest/globals": "^29.6.4",
     "@types/eslint": "^8.44.2",
     "@typescript-eslint/eslint-plugin": "^6.5.0",
