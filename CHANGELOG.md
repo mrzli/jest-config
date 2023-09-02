@@ -4,6 +4,12 @@ All notable changes to the "jest-config" will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.4] - 2023-09-02
+
+### Changed
+
+- Update dependencies.
+
 ## [0.0.3] - 2023-08-13
 
 ### Changed
