@@ -4,6 +4,13 @@ All notable changes to the "jest-config" will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.6] - 2023-11-25
+
+### Changed
+
+- Update dependencies.
+- Change package manager to `pnpm`.
+
 ## [0.0.5] - 2023-09-02
 
 ### Changed

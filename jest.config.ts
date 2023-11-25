@@ -1,4 +1,4 @@
-import type { JestConfigWithTsJest } from 'ts-jest';
+import { JestConfigWithTsJest } from 'ts-jest';
 
 export default async (): Promise<JestConfigWithTsJest> => {
   return {
